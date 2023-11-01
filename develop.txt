@@ -1,3 +1,5 @@
 This belongs to develop Branch
 
 I am creating some changes that needs to be pushed into develop remote branch.
+
+User 2 has pushed changes
